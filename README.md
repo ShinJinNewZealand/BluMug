@@ -1,0 +1,2 @@
+# BluMug
+Coursera test repository
